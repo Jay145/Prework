@@ -1,4 +1,4 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip Calculator Application for ios*
 
 **Tip Calculator Application for ios**
 
